@@ -433,45 +433,6 @@ button {
 .forgot-links a:hover {
     text-decoration: underline;
 }
-/* .chobi {
-    width: 300px;
-    margin: 0 auto;
-    border: 1px solid #d9d9d9;
-    background-color: #ffffff;
-    padding: 2px;
-}
-
-.header2 h2 {
-    font-size: 18px;
-    font-weight: bold;
-    background-color: #e6f2ff;
-    padding: 10px;
-    margin-bottom: 10px;
-    border-radius: 4px;
-}
-
-.main-image2 {
-    text-align: center;
-    margin-bottom: 15px;
-}
-
-.main-image2 img {
-    width: 100%;
-    height: auto;
-    border: 1px solid #ccc;
-}
-
-.image-gallery2 {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 5px;
-}
-
-.image-gallery2 img {
-    width: 70px;
-    height: 70px;
-    border: 1px solid #ccc;
-} */
 
 .featured3 {
     border: 1px solid #ccc;
