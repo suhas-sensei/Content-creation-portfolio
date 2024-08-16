@@ -472,3 +472,71 @@ button {
     height: 70px;
     border: 1px solid #ccc;
 } */
+
+.featured3 {
+    border: 1px solid #ccc;
+    padding: 11px;
+    width: 295px;
+    margin-top: 9px;
+    background-color: #FBF9E8;
+    border-radius: 8px;
+}
+
+.title3 {
+    font-size: 20px;
+    margin-top: 1px;
+    margin-bottom: 13px;
+}
+
+.video-item3 {
+    display: flex;
+    margin-bottom: 12px;
+}
+
+.thumbnail3 {
+    width: 95px;
+    height: 60px;
+    margin-right: 10px;
+    border: 1px solid #a0a6a8;
+    
+}
+
+.video-info3 {
+    flex: 1;
+}
+
+.video-title3 {
+    font-size: 15px;
+    font-weight: 600;
+    color:#0073E6;
+    text-decoration: none;
+}
+
+.video-title3:hover {
+    text-decoration: underline;
+}
+
+.video-from3,
+.video-views3 {
+    font-size: 12px;
+    margin: 2px 0;
+}
+
+.more-videos3 {
+    display: block;
+    font-size: 15px;
+    color: #0073E6;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.more-videos3:hover {
+    text-decoration: underline;
+}
+
+.verizon-logo3 {
+    width: 100px;
+    margin-top: 0px;
+    margin-left: 190px;
+
+}
